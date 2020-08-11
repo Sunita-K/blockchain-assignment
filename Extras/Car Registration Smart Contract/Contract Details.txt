@@ -1,0 +1,13 @@
+Record 1:
+
+https://ropsten.etherscan.io/tx/0x71e78c83a496f36bf0877784831864721d025144cdf4660300e98d44bcdbb6dc
+
+contract address -> 0x78d5987AF8BabA02Bc13a115a668e13149394975
+
+------------------------------------------------------------------------------------------------------------------
+
+Record 2:
+
+https://ropsten.etherscan.io/tx/0xe92d7484ac9bc8fd4f27455f86a6788bacd761c1690f9372d8da0cbd0308ad9d
+
+contract address -> 0x9D9Ed8642E1B986CA95BD5d8711222675B025142
